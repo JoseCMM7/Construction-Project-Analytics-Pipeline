@@ -25,13 +25,13 @@ The project is currently in development.
 The project follows a Bronze / Silver / Gold architecture:
 
 Raw CSV Data
-↓
+->
 Bronze Layer
-↓
+->
 Silver Layer
-↓
+->
 Gold Layer
-↓
+->
 Power BI Dashboard
 
 ### Bronze Layer
