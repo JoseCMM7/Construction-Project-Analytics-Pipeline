@@ -153,3 +153,26 @@ construction-project-analytics/
 │   └── dashboard_screenshots/
 │
 └── README.md
+
+## Data Source and License
+
+The datasets used in this project come from the
+**Construction Project Management Dataset** published on Kaggle.
+
+Source:
+[https://www.kaggle.com/datasets/programmer3/construction-project-management-dataset](https://www.kaggle.com/datasets/claytonmiller/construction-and-project-management-example-data)
+
+The original dataset is licensed under:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)**
+
+The original data is not owned by this repository.
+
+Any cleaned or transformed versions of the original dataset included in this
+repository are derived from the source dataset and are shared under the same
+CC BY-NC-SA 4.0 terms.
+
+All ETL logic, PySpark transformations, SQL queries, analytical KPIs,
+Databricks notebooks, and Power BI visualizations were created for this
+portfolio project.
